@@ -4,6 +4,8 @@ This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
+Now sure why the last commit didn't seem to work at the GitHub site.
+
 
 
 == Welcome to Rails
